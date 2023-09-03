@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cardHeader{
+    text-align: center;
+    background: rgb(140, 140, 13);
+    padding: 10px;
+    color: white;
+    text-shadow: 2px 1px 1px red;
+    width: 80%;
+    margin: 10px auto;
+    border-radius: 7px;
+}
+.cardDesc{
+    text-align: center;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 9px;
+    box-shadow: 3px 4px 5px gray;
+}
+
+.cardDate{
+    font-size: 2rem;
+    text-align: center;
+    text-shadow: 1px 1px 1px red;
+}
